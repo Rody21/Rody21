@@ -1,10 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Marlon Guete</p>
-
-###
+<h1 align="left">Hey 👋 What's up?, I'm Marlon Guete</h1>
 
 <h2 align="left">About me</h2>
 
